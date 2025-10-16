@@ -3,3 +3,4 @@ tlauncher.org
 analytics.pinterest.com
 brightdata.com
 docs.brightdata.com
+logs.netflix.com
