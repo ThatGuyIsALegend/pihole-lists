@@ -5,4 +5,4 @@ brightdata.com
 docs.brightdata.com
 logs.netflix.com
 locationiq.com
-tiles.locationiq.com
+*.locationiq.com
